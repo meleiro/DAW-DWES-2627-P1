@@ -947,6 +947,5 @@ Debes comprender cómo PHP utiliza:
     NAVEGADOR
 
 
-El código debe ser comprensible, reutilizable y estar correctamente
-organizado en los diferentes archivos del proyecto.
+
 
